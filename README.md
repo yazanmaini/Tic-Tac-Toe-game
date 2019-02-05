@@ -11,5 +11,6 @@ Current Functionalities include:
 Screenshot:
 <img width="999" alt="screen shot 2019-02-01 at 10 28 06 am" src="https://user-images.githubusercontent.com/44656583/52141954-21cc2200-260c-11e9-8f9e-4fdc6d396458.png">
 
-GIf Screenrecoding:
+Giphy:
+
 ![](tictactoe.gif)
